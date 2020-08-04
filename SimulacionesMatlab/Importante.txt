@@ -1,0 +1,1 @@
+Las simulaciones se corren en MATLAB R2020a, pero por lo general el código es compatible con versiones anteriores

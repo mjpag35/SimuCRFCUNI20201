@@ -1,0 +1,3 @@
+Crear un banner en LaTeX Usando el archivo de estilos baposter
+
+O en su defecto un ppt (puede ser como un esbozo)

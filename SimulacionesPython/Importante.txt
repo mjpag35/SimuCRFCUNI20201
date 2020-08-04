@@ -1,0 +1,1 @@
+Para correr los scripts se requiere Anaconda o una instalación independiente de Python (>=3.7) con todos los paquetes necesarios
